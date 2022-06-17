@@ -13,8 +13,8 @@
 
 ### Screenshot
 
-![](./design/desktop-design.png)
-![](./design/mobile-design.png)
+![](./design/desktop-design.jpg)
+![](./design/mobile-design.jpg)
 
 
 ### The challenge
