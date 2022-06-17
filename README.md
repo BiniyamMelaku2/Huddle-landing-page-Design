@@ -11,11 +11,6 @@
   - [Huddle Landing Page Design Challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2)
 
 
-### Screenshot
-
-![](./design/desktop-design.jpg)
-![](./design/mobile-design.jpg)
-
 
 ### The challenge
 
@@ -26,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site: []
+- Live Site: [Huddle-landing-page-Design](https://biniyammelaku2.github.io/Huddle-landing-page-Design/)
 
 ### Built with
 
@@ -44,3 +39,8 @@ Users should be able to:
 - [https://www.w3schools.com/html/html_layout.asp](https://www.w3schools.com/html/html_layout.asp)
 
 - [img src SVG changing the styles with CSS](https://stackoverflow.com/questions/24933430/img-src-svg-changing-the-styles-with-css)
+
+
+### Screenshot
+
+![](./design/desktop-design.jpg)
